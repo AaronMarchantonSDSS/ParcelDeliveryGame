@@ -528,7 +528,7 @@ namespace ParcelDeliveryGame
         private void PlayerWin()
         {
             //If player wins
-            if (deliveriesMade == 3)
+            if (deliveriesMade == 12)
             {
                 gameOver = "You Win!!!";
 
